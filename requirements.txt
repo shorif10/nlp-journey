@@ -1,0 +1,64 @@
+# Core Dependencies
+numpy<2.0.0
+pandas
+matplotlib
+seaborn
+plotly
+scipy<1.13.0
+
+# NLP Libraries
+nltk
+spacy
+scikit-learn
+transformers
+datasets
+torch
+torchvision
+torchaudio
+
+# Text Processing
+wordcloud
+textblob
+gensim==4.3.2 
+
+
+huggingface_hub[hf_xet]
+vaderSentiment
+
+# Web Framework
+#streamlit
+#fastapi
+#uvicorn
+
+# Data Visualization
+plotly-express
+altair
+
+# Jupyter and Development
+#jupyter
+#notebook
+#jupyterlab
+#ipywidgets
+
+# Utility Libraries
+requests
+beautifulsoup4
+python-dotenv
+tqdm
+
+# Testing
+#pytest
+#pytest-cov
+
+# Code Quality
+black
+flake8
+isort
+
+# Optional: For advanced features
+# Uncomment if needed
+# tensorflow
+# keras
+# xgboost
+# lightgbm
+# optuna
